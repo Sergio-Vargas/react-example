@@ -1,0 +1,28 @@
+.contacto{
+    margin: 0px 20px;
+    height:100%;
+    width:300px;
+    background-color:#21618C;
+}
+
+.titulo{
+    font-size: 28px;
+    color: whitesmoke;
+    text-align: center;
+}
+
+ul {
+    list-style:circle;
+}
+@media(max-width:800px){
+    .contacto{
+        
+        height:100%;
+        width:240px;
+        background-color:#21618C;
+        font-size: 14px;
+        padding:0px;
+        margin:0px;
+    }
+      
+}

@@ -1,0 +1,39 @@
+.about{
+    margin: 0%;
+    height:50%;
+    width: 350px;
+    background-color: #fffdfd;
+}
+
+.title{
+    font-size: 28px;
+    color: whitesmoke;
+    text-align: center;
+    background-color:#21618C;
+    padding: 5px;
+}
+
+.about-me{
+    padding: 10px;
+    text-align: justify;
+}
+
+.experiencia{
+    padding: 10px;
+}
+
+p{
+    padding: 10px;
+}
+@media(max-width:800px){
+    .about{
+        height:100%;
+        width: 240px;
+        background-color: #fffdfd;
+        padding: 0%;
+        font-size: 14px;
+        padding:0px;
+        margin:0px;
+    }
+    
+}

@@ -1,0 +1,22 @@
+.Formacion{
+    margin: 0%;
+    height:90%;
+    width: 350px;
+    background-color: #fffdfd;
+    vertical-align: top;
+
+}
+
+.formacion{
+    padding: 10px;
+}
+@media(max-width:800px){
+    .Formacion{
+        height:50%;
+        width: 240px;
+        background-color: #fffdfd;
+        font-size: 14px;
+        
+    }
+      
+}

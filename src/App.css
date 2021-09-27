@@ -1,0 +1,17 @@
+
+.contenedor{
+  margin: 0 auto;
+  width:800px;
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  border-style: double;
+  border-color:#fffdfd;
+  padding: 0%;
+}
+@media (max-width: 700px){
+  .contenedor{
+    width:500px;
+    width:auto;
+   
+  }
+}
