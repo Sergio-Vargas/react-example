@@ -15,7 +15,7 @@ function App() {
   return (
     <Router>
       <Switch>
-      <Route exact path="/">
+      <Route exact path="/home">
         <Home/>
       </Route>
       <Route path="/portafolio">
